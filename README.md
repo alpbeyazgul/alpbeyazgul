@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is alp beyazgül I have been serving in the web software and web design industry since 2010. I have a digital media agency called Beyazgül Group. This company provides corporate and professional web design, seo, and digital advertising services.
+My name is Alp Beyazgül. I have been serving in the web software and web design industry since 2010. I have a digital media agency called Beyazgül Group. This company provides corporate and professional web design, seo, and digital advertising services.
 
-I have a personal blog site called alpbeyazgul.com. You can visit a platform that includes web design lessons, tips and tricks, cyber security, technology, life, suggestions and advice.
+I have a personal blog site called www.alpbeyazgul.com. You can visit a platform that includes web design lessons, tips and tricks, cyber security, technology, life, suggestions and advice.
 
 <!--
 **alpbeyazgul/alpbeyazgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
