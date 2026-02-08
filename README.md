@@ -131,10 +131,6 @@ I have a personal blog site called www.alpbeyazgul.com. You can visit a platform
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alpbeyazgul\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpbeyazgul\&layout=compact\&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com?user=alpbeyazgul\&theme=tokyonight)
 
 ---
@@ -170,6 +166,7 @@ I have a personal blog site called www.alpbeyazgul.com. You can visit a platform
 🔗 Telegram      : https://t.me/alpbeyazgul
 🔗 Website       : https://alpbeyazgul.com
 🔗 Blog          : https://alpbeyazgul.com/blog
+
 ```
 
 ---
