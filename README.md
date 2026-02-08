@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Alp Beyazgül
 
 💻 Web Developer • 📱 Mobile Developer • 🔎 SEO Specialist
-📢 Social Media Specialist & Manager • 🧠 Cyber Security Researcher
+📢 Social Media Manager • 🧠 Cyber Security Researcher
 
 I have been serving in the web software and web design industry since 2010. I have a digital media agency called Beyazgül Group. This company provides corporate and professional web design, seo, and digital advertising services.
 
