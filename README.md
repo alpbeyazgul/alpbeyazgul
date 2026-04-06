@@ -168,6 +168,22 @@ I have a personal blog site called www.alpbeyazgul.com. You can visit a platform
 🔗 Blog          : https://alpbeyazgul.com/blog
 
 ```
+🔗 GitHub        : https://github.com/alpbeyazgul
+🔗 LinkedIn      : https://linkedin.com/in/alpbeyazgul
+🔗 Twitter/X     : https://x.com/alpbeyazgul
+🔗 Instagram     : https://instagram.com/alpbeyazgul
+🔗 YouTube       : https://youtube.com/@alpbeyazgul
+🔗 TikTok        : https://tiktok.com/@alpbeyazgul
+🔗 Facebook      : https://facebook.com/alpbeyazgul
+🔗 Reddit        : https://reddit.com/u/alpbeyazgul
+🔗 Medium        : https://medium.com/@alpbeyazgul
+🔗 Dev.to        : https://dev.to/alpbeyazgul
+🔗 HackerRank    : https://hackerrank.com/alpbeyazgul
+🔗 StackOverflow : https://stackoverflow.com/users/alpbeyazgul
+🔗 Discord       : alpbeyazgul
+🔗 Telegram      : https://t.me/alpbeyazgul
+🔗 Website       : https://alpbeyazgul.com
+🔗 Blog          : https://alpbeyazgul.com/blog
 
 ---
 
